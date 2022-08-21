@@ -1,0 +1,41 @@
+[
+  {
+    "from": {
+      "partialSearch": "NEW York",
+      "fullSearch": "John F. Kennedy International Airport"
+    },
+    "to": {
+      "partialSearch": "Berl",
+      "fullSearch": "Berlin"
+    },
+    "duration": {
+      "departureDate": "Aug 30",
+      "returnDate": null
+    },
+    "passenger": {
+      "incrementAdults": 1,
+      "incrementChildren": null,
+      "incrementInfants": null
+    }
+  },
+  
+  {
+    "from": {
+      "partialSearch": "Thailand",
+      "fullSearch": "Suvarnabhumi Airport"
+    },
+    "to": {
+      "partialSearch": "Melbo",
+      "fullSearch": "Tullamarine Airport"
+    },
+    "duration": {
+      "departureDate": "Sep 05",
+      "returnDate": "Sep 26"
+    },
+    "passenger": {
+      "incrementAdults": 3,
+      "incrementChildren": 2,
+      "incrementInfants": 1
+    }
+  }
+]

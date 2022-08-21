@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://www.aviasales.com",
+  "env": {
+    "environment": "development"
+  }
+}
